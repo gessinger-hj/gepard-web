@@ -1,0 +1,25 @@
+{
+  "name": "gepard-web",
+  "version": "1.0.0",
+  "description": "Web client for gepard (Browser, React, ...)",
+  "main": "./gepard-web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sync": "./sync-sources-from-gepard.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gessinger-hj/gepard-web.git"
+  },
+  "author": "Hans-Jürgen Gessinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gessinger-hj/gepard-web/issues"
+  },
+  "homepage": "https://github.com/gessinger-hj/gepard-web#readme",
+  "bin": {},
+  "dependencies": {},
+  "devDependencies": {
+    "uglify-js": "^3.0.26"
+  }
+}
