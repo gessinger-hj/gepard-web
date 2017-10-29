@@ -1,8 +1,7 @@
 {
   "name": "gepard-web",
-  "description": "Web-client for gepard:General purpose communications for distributed applications / Microservices / events, semaphores and messages for JavaScript, Java, Python and PHP",
-  "version": "1.0.0",
   "description": "Web client for gepard (Browser, React, ...)",
+  "version": "1.0.0",
   "main": "./gepard-web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,7 +18,9 @@
   },
   "homepage": "https://github.com/gessinger-hj/gepard-web#readme",
   "bin": {},
-  "dependencies": {},
+  "dependencies": {
+    "uglifyjs": "^2.4.11"
+  },
   "devDependencies": {
     "uglify-js": "^3.0.26"
   }

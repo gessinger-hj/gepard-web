@@ -1,3 +1,4 @@
 test/
 .gitignore
 .npmignore
+sync-sources-from-gepard.sh
