@@ -1,5 +1,6 @@
 {
   "name": "gepard-web",
+  "description": "Web-client for gepard:General purpose communications for distributed applications / Microservices / events, semaphores and messages for JavaScript, Java, Python and PHP",
   "version": "1.0.0",
   "description": "Web client for gepard (Browser, React, ...)",
   "main": "./gepard-web.js",
